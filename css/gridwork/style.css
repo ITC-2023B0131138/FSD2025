@@ -87,3 +87,19 @@ border: 1px dotted red;
 border: 1px dotted red;
     background-color:crimson;
 }
+.box41{
+    width: 335px;
+    height: 150px;
+    border: 1px dotted red;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.box42{
+    width: 335px;
+    height: 280px;
+    border: 1px dotted red;
+    background-color:white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
